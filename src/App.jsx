@@ -150,7 +150,7 @@ export default function App() {
             <div className="space-y-6">
               <p className="text-lg text-gray-600 leading-relaxed">
                 I am a Bharatanatyam performer, also trained in Mohiniyattam and Kuchipudi. 
-                I received my dance training from <span className="font-medium text-gray-800">Nataraja Kalakshetra, Kakkanad, Kochi</span>, 
+                I received my dance training from <span className="font-medium text-gray-800">Nataraja Kalakshetra, Kakkanad, Kochi under the guidance of Smt. RLV Ranjini Manoj</span>, 
                 where I developed a strong foundation in classical dance.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
